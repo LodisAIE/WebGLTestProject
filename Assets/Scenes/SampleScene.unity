@@ -558,7 +558,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _referenceAspectRatio: {x: 9, y: 16}
-  _zoomScale: {x: 1, y: 1, z: 10}
+  _zoomScale: {x: 1, y: 1, z: 1.1}
 --- !u!1 &1447906451
 GameObject:
   m_ObjectHideFlags: 0
